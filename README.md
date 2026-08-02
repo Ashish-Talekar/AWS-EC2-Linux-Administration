@@ -143,7 +143,7 @@ This project is licensed under the MIT License.
 ---
 
 ## 4. Security Group Configuration
-![Security Group](Screenshots/06-Security-Group-Inbound-Rules.png)
+![Security Group](Screenshots/06-Security-Group-Inbound-Rules..png)
 
 ---
 

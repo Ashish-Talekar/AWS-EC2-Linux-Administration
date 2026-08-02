@@ -124,3 +124,53 @@ LinkedIn: https://www.linkedin.com/in/ashish-talekar/
 ## License
 
 This project is licensed under the MIT License.
+
+# Project Screenshots
+
+## 1. IAM User Creation
+![IAM User](Screenshots/01-IAM-User.png)
+
+---
+
+## 2. EC2 Instance Configuration
+![EC2 Configuration](Screenshots/03-configuration-EC2-Instance.png)
+
+---
+
+## 3. EC2 Instance Running
+![EC2 Running](Screenshots/05-EC2-Instance-Running.png)
+
+---
+
+## 4. Security Group Configuration
+![Security Group](Screenshots/06-Security-Group-Inbound-Rules.png)
+
+---
+
+## 5. SSH Connection to EC2
+![SSH Connection](Screenshots/09-SSH-Connection.png)
+
+---
+
+## 6. Apache HTTP Server Running
+![Apache Status](Screenshots/14-Apache-Service-Start-&-Status.png)
+
+---
+
+## 7. Website Successfully Hosted
+![Website Output](Screenshots/18-Website-Output.png)
+
+---
+
+## 8. Linux User & Group Management
+![Linux User](Screenshots/23-Add-User-to-Group-&-Verify.png)
+
+---
+
+## 9. Amazon EBS Volume Created & Attached
+![EBS Volume](Screenshots/28-EBS-Volume-Created-&-Attached.png)
+
+---
+
+## 10. Amazon EBS Successfully Mounted
+![EBS Mounted](Screenshots/34-Verify-EBS-Mount.png)
